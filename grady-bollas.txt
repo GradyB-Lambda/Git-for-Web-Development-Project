@@ -1,0 +1,111 @@
+https://codepen.io/gradyb-lambda/pen/yLOzLPJ?editors=1100
+
+
+<!-- Questions to Submit in today's file first-lastname.txt --> 
+<!--
+Copy the questions below into the first-lastname.txt file on your github repo - answer each question and then push your changes. 
+
+    1. What is Semantic HTML? 
+        -HTML elements that describe the content of the tag.
+    2. What is HTML used for? 
+        -A markup language used to display content on a webpage. 
+    3. What is an attribute and where do we put it?
+        -Attribues are used to modify HTML elements. 
+    4. What is the h1 tag used for? How many times should I use it on a page?
+        -H1 tags are used by programs to determine the most important content; should typically only have one per page.
+    5. Name two tags that have required attributes
+        -Achor and Image tags
+    6. What do we put in the head of our HTML document? 
+        -Scipt information
+    7. What is an id?
+        -A selector 
+    8. What elements can I add an id to?
+        - all
+    9. How many times can I use the same id on a page? 
+        -once 
+    10. What is a class?
+        -similar to a id but with the added ability of being used more than once 
+    11. What elements can I add a class to?
+        -all 
+    12. How many times can I use the same class on a page? 
+        -multiple
+    13. How do I get my link to open in a new tab?
+        -target: black
+    14. What is the alt attribute in the image tag used for? 
+        -screen readers, and backend browser 
+    15. How do I reference an id?
+        -#
+    16. What is the difference between a section and a div
+        -div in blck element, section in inline 
+    17. What is CSS used for? 
+        -styling
+    18. How to we select an element? Example - every h2 on the page
+        -h2 {}
+    19. What is the difference between a class and an id? - Give me an example of when I might use each one
+        -id should be used once; ei banner
+        -class should be used to target multiple objects ie paragraphs
+    20. How do we select classes in CSS?
+        -.classe
+    21. How do we select a p element with a single class of “human””?
+        -p .human
+    22. What is a parent child selector? When would this be useful? 
+        -header nav a : all 'a' in nav in the header
+    23. How do you select all links within a div with the class of sidebar?
+        - .sidebar a {} 
+    24. What is a pseudo selector?
+        -A pseudo-class is a selector that selects elements that are in a specific state, e.g. they are the first element of their type, or they are being hovered over by the mouse pointer.
+    25. What do we use the change the spacing between lines?
+        -line-height:
+    26. What do we use to change the spacing between letters?
+        -letter-spacing:#
+    27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?
+        -text-transform: capitalize/lowercase
+    28. How do I add a 1px border around my div that is dotted and 
+    black?
+        -border: 1px dotted black
+    29. How do I select everything on the page?
+        - *{} 
+    30. How do I write a comment in CSS?
+        -/*comment*/
+    31. How do I find out what file I am in, when I am using the command line? 
+        -pwd
+    32. Using the command line - how do I see a list of files/folders 
+    in my current folder?
+        -ls
+    33. How do I remove a file via the command line? Why do I have to be careful with this? 
+        -rm
+    34. Why should I use version control? 
+        -yes
+    35. How often should I commit to github?
+        -commit whenever you finish a step
+    36. What is the command we would use to push our repo up to github? 
+        -git push -u origin branch-name
+    37. Walk me through Lambda's git flow. 
+        - Clone your Repo using githubs 'Clone or download' button,  Back inside your CLI, use the cd command to go to the directory where you are going to want to clone your forked Repo (i.e. The location where the repo should be saved on your computer), Use the git clone <link-to-repo> command to clone the repo to the directory you are currently in, Use the git clone <link-to-repo> command to clone the repo to the directory you are currently in, Use the git checkout -b 'firstname-lastname' command to create your own branch name for the repo (this is the branch that you will be doing your work on), Now you can work on your repo and start getting the project assignment done.  To add and commit changes on your branch you can do the following:git add, git commit, then push back changes into github repo, complete pull request. Most of the information I will be looking back https://www.notion.so/GitFlow-step-by-step-a764163309754e23b1b9c4077b1653cc to answer this question
+
+
+        
+Stretch Questions
+
+    1. What is the difference between an inline element and a block element?
+    2. What happens when an element is positioned absolutely? 
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+    5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
+
+
+
+   --> 
+
+
+
+
+  - [ ] Research and understand what a `merge conflict` is and how to resolve it.
+  - [ ] Research the Git commands `pull`, `rebase`, `merge`. These commands will allow you to bring in changes that other developers push to the main branch.
+  - [ ] Research the Git commands `reset `, `revert`, `clean`. These commands will allow you to go back and amends previous commits you have made.
+
+  - [ ] Research and set up a Graphical User Interface (GUI) Git console. 
+
+  - [ ] Research and setup SSH keys with GitHub, so that you do not need to input your username/password each time you push. 
+
+
