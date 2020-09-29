@@ -10,7 +10,7 @@ You will need to follow the Lambda School Git Workflow to add a file to this pro
 - [o] Add your TL as a collaborator
 - [x] Clone this repo
 - [x] Create a branch `git checkout -b 'firstName-lastName'`
-  - [o] Add a file to the project called `yourFirstName-yourLastName`.txt. This should contain the link to your completed codepen from part 2 as well as the review questions/answers
+  - [x] Add a file to the project called `yourFirstName-yourLastName`.txt. This should contain the link to your completed codepen from part 2 as well as the review questions/answers
   - [ ] Run your usual git commands for adding/committing and pushing **Be sure to push to your branch!**
 - [ ] Create a Pull-Request to submit your work
   - [ ] Use your own student fork as the base (compare across forks, base-fork -> main).
@@ -32,6 +32,7 @@ Stretch Review questions:
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
     5. In your own words, explain the box model. What is the fix for the box model? 
+    
 Stretch Git Tasks
 - [ ] While the processes learned here will set you up to be successful in most situations, they are just the tip of the iceberg in learning Git. Independently research the following topics to learn more about Git.
   - [ ] Research and understand what a `merge conflict` is and how to resolve it.

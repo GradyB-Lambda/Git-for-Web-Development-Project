@@ -1,4 +1,4 @@
-https://codepen.io/gradyb-lambda/pen/abNxjWX
+https://codepen.io/gradyb-lambda/pen/JjXqXrM?editors=1100
 
 Stretch Review questions: 
     1. What is the difference between an inline element and a block element?
