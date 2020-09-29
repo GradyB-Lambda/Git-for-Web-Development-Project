@@ -1,0 +1,20 @@
+https://codepen.io/gradyb-lambda/pen/abNxjWX
+
+Stretch Review questions: 
+    1. What is the difference between an inline element and a block element?
+    The first are objects that can, space allowing, lay one after another in a horizontal fashion. The second is a robust object that irregardless of space, will encompass the next verticle plane below a followning object.  
+
+    2. What happens when an element is positioned absolutely? 
+    The positionary value of the element will be fixed regardless of the position of its countainer. It will no loger exist in the document flow, and will instead sit on its own layer seperate from everything else. 
+
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+    You can give an element properties of borth block and inline by giving it the property of inline-block. 
+
+    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+    Default block elements: p , h, div
+    Default inline: a, br
+    Default inline-block: img
+
+    5. In your own words, explain the box model. What is the fix for the box model? 
+    box-sizing: border-box
+    This includes padding and borders in an element’s width.
